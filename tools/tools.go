@@ -1,6 +1,6 @@
 package tools
 
-import "strconv"
+import "strco
 
 func atof(str string) float64 {
 	f, _ := strconv.ParseFloat(str, 64)
