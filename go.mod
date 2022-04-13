@@ -1,1 +1,1 @@
-module git.fhi.berlin/go
+module github.com/fhimpg/go
